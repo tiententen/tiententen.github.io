@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tien Nguyen",
+    "section": "",
+    "text": "This is me\nHi, welcome to my page!\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I love reading books. My current favorite series is Fourth Wing because there are dragons — and who doesn’t love dragons?\n\n\n\nBook\n\n\n\n\n\nI’m a huge fan of K-pop, especially BTS and Blackpink. Their music always lifts my mood!\n\n\n\nBTS\n\n\n\n\n\nBlackpink\n\n\n\n\n\nI enjoy spending time with friends and family. One of our favorite activities is hunting for cute blind boxes — especially Labubu!\n(But I’m definitely not a fan of Lafufu 😆)\n\n\n\nLabubu"
+  },
+  {
+    "objectID": "hobbies.html#turns-hobbies",
+    "href": "hobbies.html#turns-hobbies",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I love reading books. My current favorite series is Fourth Wing because there are dragons — and who doesn’t love dragons?\n\n\n\nBook\n\n\n\n\n\nI’m a huge fan of K-pop, especially BTS and Blackpink. Their music always lifts my mood!\n\n\n\nBTS\n\n\n\n\n\nBlackpink\n\n\n\n\n\nI enjoy spending time with friends and family. One of our favorite activities is hunting for cute blind boxes — especially Labubu!\n(But I’m definitely not a fan of Lafufu 😆)\n\n\n\nLabubu"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Tien Nguyen",
+    "section": "Skills",
+    "text": "Skills\n\nPython programming\n\nData visualization with R and ggplot2\n\nWeb development with Quarto and HTML\nC++\nSQL"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Tien Nguyen",
+    "section": "Education",
+    "text": "Education\n\nBachelor of Science in Computer Science – CU Denver\n\nMinor in Data Science and Honors and Leadership\nCurrent Courses taken:IoT, Computer Security, Intro to Software, Data Wrangling, Fundamental of Unix"
+  }
+]

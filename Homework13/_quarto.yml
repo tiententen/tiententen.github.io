@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tien Nguyen's Website"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Hobbies"
+        file: hobbies.qmd
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+
+
+
+

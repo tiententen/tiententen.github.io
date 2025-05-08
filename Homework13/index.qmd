@@ -1,0 +1,36 @@
+---
+title: "Tien Nguyen"
+format:
+  html:
+    theme: vapor
+    toc: true
+---
+
+![This is me](img/Tien.png)
+
+Hi, welcome to my page!
+
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+### 📬 Contact
+
+- [Email Me](mailto:tien.d.nguyen10@gmail.com) {: tien.d.nguyen@gmail.com }
+- [GitHub](https://github.com/tiententen) {:https://github.com/tiententen}
+
+## Skills
+
+- Python programming  
+- Data visualization with R and ggplot2  
+- Web development with Quarto and HTML
+- C++
+- SQL
+
+## Education
+
+- Bachelor of Science in Computer Science – CU Denver  
+- Minor in Data Science and Honors and Leadership
+- Current Courses taken:IoT, Computer Security, Intro to Software, Data Wrangling, Fundamental of Unix   
+

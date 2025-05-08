@@ -1,0 +1,25 @@
+---
+title: "Hobbies"
+format: html
+---
+
+## ✨ Turn's ✨ Hobbies
+
+### 📚 I Love Books  
+I love reading books. My current favorite series is *Fourth Wing* because there are dragons — and who doesn't love dragons?
+
+![Book](img/Book.png)
+
+### 🎶 K-pop: BTS and Blackpink  
+I’m a huge fan of K-pop, especially BTS and Blackpink. Their music always lifts my mood!
+
+![BTS](img/BTS.png)
+
+![Blackpink](img/Blackpink.png)
+
+### 🎁 Blind Box Fun: Labubu  
+I enjoy spending time with friends and family. One of our favorite activities is hunting for cute blind boxes — especially *Labubu*!  
+*(But I’m definitely not a fan of Lafufu 😆)*
+
+![Labubu](img/Labubu.png)
+
